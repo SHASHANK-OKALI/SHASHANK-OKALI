@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm Shashank Okali
 
-<!--
-**SHASHANK-OKALI/SHASHANK-OKALI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MCA Student | Web Developer
 
-Here are some ideas to get you started:
+🚀 About Me
+- 🎓 MCA Student at CMR University
+- 🎓 BCA Graduate
+- 💻 Interested in Web Development
+- 🌱 Currently learning React, JavaScript and Full Stack Development
+- 🚀 Building real-world web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Frontend:
+HTML | CSS | JavaScript | React | Bootstrap
+
+Backend:
+Python | Django
+
+Database:
+SQLite | MySQL
+
+Tools:
+Git | GitHub | VS Code | Render
+
+📌 Featured Projects
+
+🚗 Car Rental Management System
+A responsive car rental web application built with HTML, CSS and JavaScript.
+
+☕ Cafe Okali
+A modern cafe website built using React, Bootstrap and React Icons.
+
+🎟️ Eventify
+An event booking platform built using React/Vite.
+
+📫 Connect With Me
+
+LinkedIn
+GitHub
+Portfolio
