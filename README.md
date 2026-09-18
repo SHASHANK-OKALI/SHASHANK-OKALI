@@ -34,8 +34,8 @@ A modern cafe website built using React, Bootstrap and React Icons.
 🎟️ Eventify
 An event booking platform built using React/Vite.
 
-📫 Connect With Me
+ 🔗 Connect With Me
 
-LinkedIn
-GitHub
-Portfolio
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shashank-okali-078118339/
+- 🐙 **GitHub:** https://github.com/SHASHANK-OKALI
+- 🌐 **Portfolio:** (https://shashank-okali-portfolio93.onrender.com/)
